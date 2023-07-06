@@ -1,4 +1,4 @@
-# My-PWA-Text-Area
+# My-PWA-Text-Editor
 
   
 ## Description:
